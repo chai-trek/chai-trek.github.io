@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://chai-trek.github.io/sitemap/sitemap.txt
